@@ -4,7 +4,7 @@
 
 ## Use project :
 ```git
-    git clone 
+    git clone https://github.com/SarthakGupta145/TODO_LIST.git
 ```
 
 ## Application :
